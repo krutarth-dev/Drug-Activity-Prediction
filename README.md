@@ -4,12 +4,12 @@ Drugs usually consist of small organic molecules that achieve their intended eff
 
 ## Tools & Technology
 
-1)Python
-2)Pandas
-3)Numpy
-4)Jupyter Notebook
-5)Scikit Learn
-6)Streamlit
+### 1)Python
+### 2)Pandas
+### 3)Numpy
+### 4)Jupyter Notebook
+### 5)Scikit Learn
+### 6)Streamlit
 
 ## Architecture
 Machine-learning-model-flow.png![image](https://github.com/krutarth-dev/Drug-Activity-Prediction/assets/52596504/6e249ca5-f566-4872-8c7a-b79960d0951e)
